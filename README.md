@@ -45,6 +45,6 @@ The main objective of this project is to transform raw sales data into meaningfu
 * ## Dashboard Preview
 
 ![Mobile Sales Dashboard](screenshot%20of%20dashboard.png)
-example - 
+example - https://github.com/piyush5700/sales-dashboard/blob/main/screenshot%20of%20dashboard.png
 
 
