@@ -42,4 +42,9 @@ The main objective of this project is to transform raw sales data into meaningfu
 * Clean and interactive dashboard design
 * Business-focused KPIs and visual storytelling
 
+* ## Dashboard Preview
+
+![Mobile Sales Dashboard](screenshot%20of%20dashboard.png)
+example - 
+
 
